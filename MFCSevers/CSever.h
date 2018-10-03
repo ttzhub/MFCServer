@@ -1,4 +1,7 @@
 #pragma once
+#include "MFCSeversDlg.h"			// 
+
+class CMFCSeversDlg;
 class CSever : public CSocket
 {
 public:
