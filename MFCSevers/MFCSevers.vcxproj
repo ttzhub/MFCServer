@@ -183,6 +183,7 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CSever.h" />
     <ClInclude Include="MFCSevers.h" />
     <ClInclude Include="MFCSeversDlg.h" />
     <ClInclude Include="Resource.h" />
@@ -190,6 +191,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CSever.cpp" />
     <ClCompile Include="MFCSevers.cpp" />
     <ClCompile Include="MFCSeversDlg.cpp" />
     <ClCompile Include="stdafx.cpp">
