@@ -2,6 +2,7 @@
 #include "MFCSeversDlg.h"			// 主对话框头文件
 
 class CMFCSeversDlg;
+
 class CSever : public CSocket
 {
 public:
